@@ -1,0 +1,6 @@
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\bin\Debug\EmployeeDB.dacpac
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\bin\Debug\EmployeeDB.dll
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\bin\Debug\EmployeeDB.pdb
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\obj\Debug\EmployeeDB.sqlprojAssemblyReference.cache
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\obj\Debug\EmployeeDB.dll
+c:\users\user\source\repos\EmployeeTracker\EmployeeDB\obj\Debug\EmployeeDB.pdb

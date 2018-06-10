@@ -1,0 +1,6 @@
+c:\users\user\source\repos\EmployeeTracker\Model\bin\Debug\Model.dll
+c:\users\user\source\repos\EmployeeTracker\Model\bin\Debug\Model.pdb
+c:\users\user\source\repos\EmployeeTracker\Model\obj\Debug\Model.csprojAssemblyReference.cache
+c:\users\user\source\repos\EmployeeTracker\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\EmployeeTracker\Model\obj\Debug\Model.dll
+c:\users\user\source\repos\EmployeeTracker\Model\obj\Debug\Model.pdb

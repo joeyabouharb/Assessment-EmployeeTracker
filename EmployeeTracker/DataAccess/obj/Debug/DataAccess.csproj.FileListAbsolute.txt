@@ -1,0 +1,9 @@
+c:\users\user\source\repos\EmployeeTracker\DataAccess\bin\Debug\DataAccess.dll
+c:\users\user\source\repos\EmployeeTracker\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\user\source\repos\EmployeeTracker\DataAccess\bin\Debug\Model.dll
+c:\users\user\source\repos\EmployeeTracker\DataAccess\bin\Debug\Model.pdb
+c:\users\user\source\repos\EmployeeTracker\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+c:\users\user\source\repos\EmployeeTracker\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\EmployeeTracker\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+c:\users\user\source\repos\EmployeeTracker\DataAccess\obj\Debug\DataAccess.dll
+c:\users\user\source\repos\EmployeeTracker\DataAccess\obj\Debug\DataAccess.pdb

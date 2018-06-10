@@ -1,0 +1,11 @@
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\Controller.dll
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\Controller.pdb
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\DataAccess.dll
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\Model.dll
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\DataAccess.pdb
+c:\users\user\source\repos\EmployeeTracker\Controller\bin\Debug\Model.pdb
+c:\users\user\source\repos\EmployeeTracker\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+c:\users\user\source\repos\EmployeeTracker\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\EmployeeTracker\Controller\obj\Debug\Controller.csproj.CopyComplete
+c:\users\user\source\repos\EmployeeTracker\Controller\obj\Debug\Controller.dll
+c:\users\user\source\repos\EmployeeTracker\Controller\obj\Debug\Controller.pdb
